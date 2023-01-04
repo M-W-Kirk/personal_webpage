@@ -15,12 +15,12 @@ img {
 
 a:link {
     color: #FFF;
-    background-color: #000080;
+    background-color: #413C85;
 }
 
 a:hover {
     color: #FFF;
-    background-color: #004080;
+    background-color: #A034D9;
 }
 
 
@@ -34,5 +34,9 @@ a:link, a:visited {
   }
 
 a:hover, a:active {
-    background-color: #0000cc;
+    background-color: #A034D9;
   }
+
+hr {
+    color: #000;
+}
